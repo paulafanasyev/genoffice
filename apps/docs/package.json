@@ -26,7 +26,7 @@
     "@genoffice/file-parse": "*",
     "@genoffice/project-store": "*",
     "@genoffice/ui": "*",
-    "@tiptap/core": "^3.28.0",
+    "@tiptap/core": "^3.32.0",
     "@tiptap/extensions": "^3.28.0",
     "@tiptap/pm": "^3.28.0",
     "@tiptap/react": "^3.28.0",
@@ -34,7 +34,7 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.0.4",
-    "electron": "^41.0.3",
+    "electron": "^45.0.0",
     "electron-builder": "^26.0.12",
     "electron-vite": "^5.0.0",
     "jsdom": "^28.0.0",
@@ -42,8 +42,8 @@
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "typescript": "^5.9.3",
-    "vite": "^7.3.1",
-    "vitest": "^4.1.0"
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
   },
   "author": "GenOffice",
   "build": {
